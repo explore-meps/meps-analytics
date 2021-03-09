@@ -1,0 +1,27 @@
+# last updated 2020-09-30
+
+# Django packages
+Django==3.0.7 # web server
+djangorestframework==3.11.0 # RESTful API support for Django
+
+# General Support Packages
+ipython==7.16.1 # interactive Python Console
+virtualenvwrapper==4.8.4 # wrapper for simpler virtualenv support
+selenium==3.141.0 # launches and controls a web browser.
+
+# Jupyter Notebook Support
+jupyter==1.0.0 # services for interactive computing
+jupyter-contrib-nbextensions==0.5.1 # easy access to extensions in jupyter notebooks
+
+# Document Support Packages
+openpyxl==3.0.4 # read/write xlsx files
+
+# Analytics Packages
+numpy==1.19.1  # scientific compunting support
+scikit-learn==0.22.1 # machine learning tools
+pandas==1.0.5 # data analysis library
+
+# Graphing Packages
+seaborn==0.10.01 # graphing support
+matplotlib==3.3.0 # graphing support
+
