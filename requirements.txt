@@ -20,6 +20,8 @@ openpyxl==3.0.4 # read/write xlsx files
 numpy==1.19.1  # scientific compunting support
 scikit-learn==0.22.1 # machine learning tools
 pandas==1.0.5 # data analysis library
+statsmodels==0.12.2 # advanced statistics tool
+cpi==0.1.16 # adjust for inflation
 
 # Graphing Packages
 seaborn==0.10.01 # graphing support
